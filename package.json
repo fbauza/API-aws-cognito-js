@@ -1,0 +1,27 @@
+{
+  "name": "api-cognito-js",
+  "version": "1.0.0",
+  "description": "N/A",
+  "main": "server.js",
+  "author": "Errepar",
+  "dependencies": {
+    "amazon-cognito-identity-js": "^3.0.7",
+    "async": "^2.6.2",
+    "aws-sdk": "^2.406.0",
+    "body-parser": "^1.18.3",
+    "composable-middleware": "^0.3.0",
+    "cors": "^2.8.5",
+    "express": "^4.16.4",
+    "jsonwebtoken": "^8.4.0",
+    "md5": "^2.2.1",
+    "mongoose": "^5.4.11",
+    "morgan": "^1.9.1",
+    "mustache": "^3.0.1",
+    "node-fetch": "^2.3.0",
+    "nodemailer": "^5.1.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {
+    "@angular/cli": "^6.0.7"
+  }
+}
